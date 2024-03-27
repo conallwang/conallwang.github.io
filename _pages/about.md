@@ -71,7 +71,7 @@ My research interest focuses on <span style="color:red">digital humans</span> an
 - [ORBBuf: A robust buffering method for remote visual SLAM](https://dl.acm.org/doi/abs/10.1109/IROS51168.2021.9635950), Yu-Ping Wang, Zi-xin Zou, **Cong Wang**, et al. **IROS 2021**
 
 
-# 🎖 Honors and Awards (Since 2016)
+# 🎖 Honors and Awards
 - *2023.10* Hefei Excellence Scholarship
 - *2023.09* Longhu Scholarship
 - *2023.05* 2023 Tencent AI Lab Rhino-Bird Elite Talent
