@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Conall's HomePage"
 description              : "I'm interned in Tencent AI Lab, and focusing on researches about digital humans."
-repository               : "JohnsonLC/conallwang.github.io"
+repository               : "conallwang/conallwang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JohnsonLC"
+  github           : "conallwang"
   google_plus      :
   keybase          :
   instagram        :
