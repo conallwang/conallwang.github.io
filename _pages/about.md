@@ -39,7 +39,7 @@ My research interest focuses on <span style="color:red">digital humans</span> an
 
 **Cong Wang**, Di Kang, Yan-Pei Cao, Linchao Bao, Ying Shan, Song-Hai Zhang
 
-[**Project**](https://johnsonlc.github.io/npva.github.io/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
+[**Project**](https://conallwang.github.io/npva.github.io/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
 - NPVA employs neural points to achieve higher-quality renderings for challenging facial regions (e.g., mouth interior, eyes, and beard).
 </div>
 </div>
@@ -63,7 +63,7 @@ My research interest focuses on <span style="color:red">digital humans</span> an
 
 **Cong Wang**, Yu-Ping Wang, Dinesh Manocha
 
-[**Project**](https://github.com/JohnsonLC/MotionHint) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Project**](https://github.com/conallwang/MotionHint) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:u5HHmVD_uO8C'></span></strong>
 - MotionHint is able to be easily applied to existing open-sourced state-of-the-art SSM-VO systems to greatly improve the performance (reducing ATE by up to 28.73%).
 </div>
 </div>
