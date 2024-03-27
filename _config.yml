@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Conall's HomePage"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "I'm interned in Tencent AI Lab, and focusing on researches about digital humans."
 repository               : "JohnsonLC/conallwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Conall Wang (王聪)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/live-photo.png"
   bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
