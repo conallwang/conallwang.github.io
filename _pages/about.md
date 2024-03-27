@@ -71,17 +71,25 @@ My research interest focuses on <span style="color:red">digital humans</span> an
 - [ORBBuf: A robust buffering method for remote visual SLAM](https://dl.acm.org/doi/abs/10.1109/IROS51168.2021.9635950), Yu-Ping Wang, Zi-xin Zou, **Cong Wang**, et al. **IROS 2021**
 
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Awards (Since 2016)
+- *2023.10* Hefei Excellence Scholarship
+- *2023.09* Longhu Scholarship
+- *2023.05* 2023 Tencent AI Lab Rhino-Bird Elite Talent
+- *2022.09* Longhu Scholarship
+- *2019.11* National Scholarship (1/446)
+- *2019.04* the Mathematical Contest in Modeling, Meritorious Winner (Top 4%)
+- *2018.11* National Scholarship (1/446)
+- *2018.04* the Mathematical Contest in Modeling, Meritorious Winner (Top 4%)
+- *2017.11* People's Special Scholarship (1/145)
+- *2017.11* "Guan Zhi" Scholarship (1/446)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2024.04 (now)*, Ph.D. student, the Department of Computer Science and Technology, Tsinghua University, Beijing.
+- *2016.09 - 2020.06*, Undergraduate, the School of Computer and Communication Engineering, University of Science and Technology Beijing, Beijing.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.02*, Paper Sharing, Tencent internal talk. 
+- *2022.07*, show my paper, invited by BKUNYUN, [video](https://www.bilibili.com/video/BV1cB4y1C7Zw/?spm_id_from=333.337.search-card.all.click)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.07 - 2024.04 (now)*, Tencent AI Lab, Beijing.
