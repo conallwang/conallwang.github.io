@@ -26,9 +26,10 @@ My research interest focuses on <span style="color:red">digital humans</span> an
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉 One paper is accepted by **SIGRRAPH Asia 2023**!
-- *2023.07*: &nbsp;🎉 One paper is accepted by **ICCV 2023**!
-- *2022.02*: &nbsp;🎉 One paper is accepted by **ICRA 2022**!
+- *2023.08*: &nbsp;🎉 One paper was accepted by **SIGRRAPH Asia 2023**!
+- *2023.07*: &nbsp;🎉 One paper was accepted by **ICCV 2023**!
+- *2022.07*  I joined Tencent AI Lab as an intern.
+- *2022.02*: &nbsp;🎉 One paper was accepted by **ICRA 2022**!
 
 # 📝 Publications 
 
