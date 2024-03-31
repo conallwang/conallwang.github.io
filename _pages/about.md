@@ -75,7 +75,7 @@ Now, I am in the fourth year of my five-year Ph.D. career and <span style="color
 # 🎖 Honors and Awards
 - *2023.10* HeFei Excellence Scholarship (5,000RMB)
 - *2023.09* Longhu Scholarship (5,000RMB)
-- *2023.05* 2023 Tencent AI Lab Rhino-Bird Elite Talent (5,000RMB * 12)
+- *2023.05* 2023 Tencent AI Lab Rhino-Bird Elite Talent (5,000RMB * 12 mouth)
 - *2022.10* GanZhou Excellence Scholarship (5,000RMB)
 - *2022.09* Longhu Scholarship (5,000RMB)
 - *2019.11* National Scholarship (8,000RMB, 1/446)
@@ -91,7 +91,7 @@ Now, I am in the fourth year of my five-year Ph.D. career and <span style="color
 
 # 💬 Invited Talks
 - *2023.02*, Paper Sharing, Tencent internal talk. 
-- *2022.07*, show my paper, invited by BKUNYUN, [video](https://www.bilibili.com/video/BV1cB4y1C7Zw/?spm_id_from=333.337.search-card.all.click)
+- *2022.07*, show my paper, invited by BKUNYUN, [bilibili video](https://www.bilibili.com/video/BV1cB4y1C7Zw/?spm_id_from=333.337.search-card.all.click)
 
 # 💻 Internships
 - *2022.07 - 2024.04 (now)*, Tencent AI Lab, Beijing.
