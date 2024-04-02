@@ -90,9 +90,9 @@ Now, I am in the fourth year of my five-year Ph.D. career and <span style="color
 - *2016.09 - 2020.06*, Undergraduate, the School of Computer and Communication Engineering, University of Science and Technology Beijing, Beijing.
 
 # 💬 Invited Talks
-- *2023.11*, Show my paper, invited by Journal of Image and Graphics, [bilibili video](https://www.bilibili.com/video/BV1o64y177Ny/?spm_id_from=333.337.search-card.all.click&vd_source=b4eed9deaadbce01a5a20c7c9374a85e)
+- *2023.11*, Show my paper, invited by [Journal of Image and Graphics](http://www.cjig.cn/jig/ch/index.aspx), [bilibili video](https://www.bilibili.com/video/BV1o64y177Ny/?spm_id_from=333.337.search-card.all.click&vd_source=b4eed9deaadbce01a5a20c7c9374a85e)
 - *2023.02*, Paper Sharing, Tencent internal talk. 
-- *2022.07*, Show my paper, invited by BKUNYUN, [bilibili video](https://www.bilibili.com/video/BV1cB4y1C7Zw/?spm_id_from=333.337.search-card.all.click)
+- *2022.07*, Show my paper, invited by [BKUNYUN](https://www.bkunyun.com/), [bilibili video](https://www.bilibili.com/video/BV1cB4y1C7Zw/?spm_id_from=333.337.search-card.all.click)
 
 # 💻 Internships
 - *2022.07 - 2024.04 (now)*, Tencent AI Lab, Beijing.
