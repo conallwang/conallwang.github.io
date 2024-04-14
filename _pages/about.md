@@ -20,9 +20,9 @@ redirect_from:
 I'm a Ph.D. student at [the Department of Computer Science and Technology, Tsinghua University](https://www.cs.tsinghua.edu.cn/) (清华大学计算机科学与技术系), advised by [Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm) (张松海).
 Before that, I achieved my bachelor's degree at [the School of Computer and Communication Engineering, University of Science and Technology Beijing](https://scce.ustb.edu.cn/) (北京科技大学计算机与通信工程学院).
 
-My research interest focuses on <span style="color:red">digital humans</span> and <span style="color:red">computer vision</span>, including digital body/head avatar creation/editing, image/video generative models, and novel 3D representations. 
+My research interest focuses on <span style="color:red; font-weight: bold;">digital humans</span> and <span style="color:red; font-weight: bold;">computer vision</span>, including digital body/head avatar creation/editing, image/video generative models, and novel 3D representations. 
 
-Now, I am in the fourth year of my five-year Ph.D. career and <span style="color:red">will be graduating in June of 2025</span>. If you're looking for a digital human researcher, feel free to contact me (wangcong20@mails.tsinghua.edu.cn). BTW, the workplace is preferably in Beijing or somewhere around.
+Now, I am in the fourth year of my five-year Ph.D. career and <span style="color:red; font-weight: bold;">will be graduating in June of 2025</span>. If you're looking for a digital human researcher, feel free to contact me (wangcong20@mails.tsinghua.edu.cn). BTW, the workplace is preferably in Beijing or somewhere around.
 
 
 # 🔥 News
@@ -87,13 +87,13 @@ Now, I am in the fourth year of my five-year Ph.D. career and <span style="color
 # 🎖 Honors and Awards
 - *2023.10* The Second Prize Scholarship (5,000RMB)
 - *2023.09* Longhu Scholarship (5,000RMB)
-- *2023.05* 2023 Tencent AI Lab Rhino-Bird Elite Talent
+- *2023.05* **2023 Tencent AI Lab Rhino-Bird Elite Talent**
 - *2022.10* The Second Prize Scholarship (5,000RMB)
 - *2022.09* Longhu Scholarship (5,000RMB)
-- *2020.06* Excellent Graduate of Beijing (Top 5%)
-- *2019.11* National Scholarship (8,000RMB, 1/446)
+- *2020.06* **Excellent Graduate of Beijing** (Top 5%)
+- *2019.11* **National Scholarship** (8,000RMB, 1/446)
 - *2019.04* the Mathematical Contest in Modeling, Meritorious Winner (Top 4%)
-- *2018.11* National Scholarship (8,000RMB, 1/446)
+- *2018.11* **National Scholarship** (8,000RMB, 1/446)
 - *2018.04* the Mathematical Contest in Modeling, Meritorious Winner (Top 4%)
 - *2017.11* People's Special Scholarship (5,000RMB, 1/145)
 - *2017.11* "Guan Zhi" Scholarship (10,000RMB, 1/446)
