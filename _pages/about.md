@@ -33,6 +33,18 @@ Now, I am in the fourth year of my five-year Ph.D. career and <span style="color
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiV 2024</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing](None)
+
+**Cong Wang**, Di Kang, He-Yi Sun, Shen-Han Qian, Zi-Xuan Wang, Linchao Bao, Song-Hai Zhang
+
+[**Project**](None) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
+- MeGA adopts more suitable representations to model different head components, achieving higher-quality renderings and naturally supporting various downstream applications (including hair alteration and texture editing).
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2023</div><img src='images/npva_teaser.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -73,11 +85,12 @@ Now, I am in the fourth year of my five-year Ph.D. career and <span style="color
 
 
 # 🎖 Honors and Awards
-- *2023.10* HeFei Excellence Scholarship (5,000RMB)
+- *2023.10* The Second Prize Scholarship (5,000RMB)
 - *2023.09* Longhu Scholarship (5,000RMB)
-- *2023.05* 2023 Tencent AI Lab Rhino-Bird Elite Talent (5,000RMB * 12 mouth)
-- *2022.10* GanZhou Excellence Scholarship (5,000RMB)
+- *2023.05* 2023 Tencent AI Lab Rhino-Bird Elite Talent
+- *2022.10* The Second Prize Scholarship (5,000RMB)
 - *2022.09* Longhu Scholarship (5,000RMB)
+- *2020.06* Excellent Graduate of Beijing (Top 5%)
 - *2019.11* National Scholarship (8,000RMB, 1/446)
 - *2019.04* the Mathematical Contest in Modeling, Meritorious Winner (Top 4%)
 - *2018.11* National Scholarship (8,000RMB, 1/446)
@@ -90,9 +103,10 @@ Now, I am in the fourth year of my five-year Ph.D. career and <span style="color
 - *2016.09 - 2020.06*, Undergraduate, the School of Computer and Communication Engineering, University of Science and Technology Beijing, Beijing.
 
 # 💬 Invited Talks
+- *2023.12*, Oral Presentation for "Neural Point-based Volumetric Avatar: Surface-guided Neural Points for Efficient and Photorealistic Volumetric Head Avatar", SIGGRAPH Asia 2023, Sydney, NSW, Australia.
 - *2023.11*, Show my paper, invited by [Journal of Image and Graphics](http://www.cjig.cn/jig/ch/index.aspx), [bilibili video](https://www.bilibili.com/video/BV1o64y177Ny/?spm_id_from=333.337.search-card.all.click&vd_source=b4eed9deaadbce01a5a20c7c9374a85e)
-- *2023.02*, Paper Sharing, Tencent internal talk. 
 - *2022.07*, Show my paper, invited by [BKUNYUN](https://www.bkunyun.com/), [bilibili video](https://www.bilibili.com/video/BV1cB4y1C7Zw/?spm_id_from=333.337.search-card.all.click)
+- *2022.05*, Oral Presentation for "MotionHint: Self-Supervised Monocular Visual Odometry with Motion Constraints", ICRA 2022, Philadelphia, PA, USA.
 
 # 💻 Internships
 - *2022.07 - 2024.04 (now)*, Tencent AI Lab, Beijing.
