@@ -26,21 +26,21 @@ Now, I am in the fourth year of my five-year Ph.D. career and <span style="color
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉 One paper was accepted by **SIGRRAPH Asia 2023**!
-- *2023.07*: &nbsp;🎉 One paper was accepted by **ICCV 2023**!
+- *2023.08*: &nbsp;🎉 Neural Point-based Volumetric Avatars was accepted by **SIGRRAPH Asia 2023**!
+- *2023.07*: &nbsp;🎉 LoLep was accepted by **ICCV 2023**!
 - *2022.07*: &nbsp; I joined Tencent AI Lab as an intern.
-- *2022.02*: &nbsp;🎉 One paper was accepted by **ICRA 2022**!
+- *2022.02*: &nbsp;🎉 MotionHint was accepted by **ICRA 2022**!
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiV 2024</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing](None)
+[MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing](https://arxiv.org/abs/2404.19026)
 
 **Cong Wang**, Di Kang, He-Yi Sun, Shen-Han Qian, Zi-Xuan Wang, Linchao Bao, Song-Hai Zhang
 
-[**Project**](None) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
+[**Project**](https://conallwang.github.io/MeGA_Pages/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
 - MeGA adopts more suitable representations to model different head components, achieving higher-quality renderings and naturally supporting various downstream applications (including hair alteration and texture editing).
 </div>
 </div>
