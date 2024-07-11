@@ -109,4 +109,5 @@ Now, I am in the fourth year of my five-year Ph.D. career and <span style="color
 - *2022.05*, Oral Presentation for "MotionHint: Self-Supervised Monocular Visual Odometry with Motion Constraints", ICRA 2022, Philadelphia, PA, USA.
 
 # 💻 Internships
-- *2022.07 - 2024.04 (now)*, Tencent AI Lab, Beijing.
+- *2022.07 - 2024.07 (now)*, Tencent AI Lab, Beijing.
+- *2024.07 - now*, AntGroup, Hangzhou.
