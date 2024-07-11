@@ -99,7 +99,7 @@ Now, I am in the fourth year of my five-year Ph.D. career and <span style="color
 - *2017.11* "Guan Zhi" Scholarship (10,000RMB, 1/446)
 
 # 📖 Educations
-- *2020.09 - 2024.04 (now)*, Ph.D. student, the Department of Computer Science and Technology, Tsinghua University, Beijing.
+- *2020.09 - now*, Ph.D. student, the Department of Computer Science and Technology, Tsinghua University, Beijing.
 - *2016.09 - 2020.06*, Undergraduate, the School of Computer and Communication Engineering, University of Science and Technology Beijing, Beijing.
 
 # 💬 Invited Talks
