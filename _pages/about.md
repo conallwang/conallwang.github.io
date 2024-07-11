@@ -26,6 +26,7 @@ Now, I am in the fourth year of my five-year Ph.D. career and <span style="color
 
 
 # 🔥 News
+- *2024.07*: &nbsp; I joined AntGroup as an intern.
 - *2023.08*: &nbsp;🎉 Neural Point-based Volumetric Avatars was accepted by **SIGRRAPH Asia 2023**!
 - *2023.07*: &nbsp;🎉 LoLep was accepted by **ICCV 2023**!
 - *2022.07*: &nbsp; I joined Tencent AI Lab as an intern.
