@@ -22,7 +22,7 @@ Before that, I achieved my bachelor's degree at [the School of Computer and Comm
 
 My research interest focuses on <span style="color:red; font-weight: bold;">digital humans</span> and <span style="color:red; font-weight: bold;">computer vision</span>, including digital body/head avatar creation/editing, image/video generative models, and novel 3D representations. 
 
-Now, I am in the fourth year of my five-year Ph.D. career and <span style="color:red; font-weight: bold;">will be graduating in June of 2025</span>. If you're looking for a digital human researcher, feel free to contact me (wangcong20@mails.tsinghua.edu.cn). BTW, the workplace is preferably in Beijing or somewhere around.
+Now, I am in the fourth year of my five-year Ph.D. career and <span style="color:red; font-weight: bold;">will be graduating in June of 2025</span>. If you're looking for a digital human researcher, feel free to contact me (wangcong20@mails.tsinghua.edu.cn).
 
 
 # 🔥 News
