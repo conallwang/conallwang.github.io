@@ -22,19 +22,20 @@ Before that, I achieved my bachelor's degree at [the School of Computer and Comm
 
 My research interest focuses on <span style="color:red; font-weight: bold;">digital humans</span> and <span style="color:red; font-weight: bold;">computer vision</span>, including digital body/head avatar creation/editing, image/video generative models, and novel 3D representations. 
 
-Now, I am in the fourth year of my five-year Ph.D. career and <span style="color:red; font-weight: bold;">will be graduating in June of 2025</span>. If you're looking for a digital human researcher, feel free to contact me (wangcong20@mails.tsinghua.edu.cn).
+Now, I am in the last year of my five-year Ph.D. career and <span style="color:red; font-weight: bold;">will be graduating in June of 2025</span>. If you're looking for a digital human researcher, feel free to contact me (wangcong20@mails.tsinghua.edu.cn).
 
 
 # 🔥 News
-- *2024.07*: &nbsp; I joined AntGroup as an intern.
-- *2023.08*: &nbsp;🎉 Neural Point-based Volumetric Avatars was accepted by **SIGRRAPH Asia 2023**!
-- *2023.07*: &nbsp;🎉 LoLep was accepted by **ICCV 2023**!
-- *2022.07*: &nbsp; I joined Tencent AI Lab as an intern.
-- *2022.02*: &nbsp;🎉 MotionHint was accepted by **ICRA 2022**!
+- *2025.03*: &nbsp;🎉 **MeGA** was accepted by **CVPR 2025**!
+- *2024.07*: &nbsp; I joined **AntGroup** as an intern.
+- *2023.08*: &nbsp;🎉 **Neural Point-based Volumetric Avatars** was accepted by **SIGRRAPH Asia 2023**!
+- *2023.07*: &nbsp;🎉 **LoLep** was accepted by **ICCV 2023**!
+- *2022.07*: &nbsp; I joined **Tencent AI Lab** as an intern.
+- *2022.02*: &nbsp;🎉 **MotionHint** was accepted by **ICRA 2022**!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiV 2024</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing](https://arxiv.org/abs/2404.19026)
@@ -86,19 +87,20 @@ Now, I am in the fourth year of my five-year Ph.D. career and <span style="color
 
 
 # 🎖 Honors and Awards
+- *2024.11* **Huawei Scholarship** (¥20,000) 
 - *2024.07* **2023 Tencent AI Lab Rhino-Bird Elite Talent, Excellence Award**
-- *2023.10* The Second Prize Scholarship (5,000RMB)
-- *2023.09* Longhu Scholarship (5,000RMB)
+- *2023.10* The Second Prize Scholarship (¥5,000)
+- *2023.09* Longhu Scholarship (¥5,000)
 - *2023.05* **2023 Tencent AI Lab Rhino-Bird Elite Talent**
-- *2022.10* The Second Prize Scholarship (5,000RMB)
-- *2022.09* Longhu Scholarship (5,000RMB)
+- *2022.10* The Second Prize Scholarship (¥5,000)
+- *2022.09* Longhu Scholarship (¥5,000)
 - *2020.06* **Excellent Graduate of Beijing** (Top 5%)
-- *2019.11* **National Scholarship** (8,000RMB, 1/446)
+- *2019.11* **National Scholarship** (¥8,000, 1/446)
 - *2019.04* the Mathematical Contest in Modeling, Meritorious Winner (Top 4%)
-- *2018.11* **National Scholarship** (8,000RMB, 1/446)
+- *2018.11* **National Scholarship** (¥8,000, 1/446)
 - *2018.04* the Mathematical Contest in Modeling, Meritorious Winner (Top 4%)
-- *2017.11* People's Special Scholarship (5,000RMB, 1/145)
-- *2017.11* "Guan Zhi" Scholarship (10,000RMB, 1/446)
+- *2017.11* People's Special Scholarship (¥5,000, 1/145)
+- *2017.11* "Guan Zhi" Scholarship (¥10,000, 1/446)
 
 # 📖 Educations
 - *2020.09 - now*, Ph.D. student, the Department of Computer Science and Technology, Tsinghua University, Beijing.
