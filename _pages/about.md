@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now a scientific researcher in Tencent Hunyuan, exploring video generation in digital human domain. Before that, I had interned in Tencent AI Lab for two years, exploring 3D digital human/head reconstruction/editing related researches with [Di Kang](https://scholar.google.com/citations?user=2ztThPwAAAAJ&hl=en) and [Linchao Bao](https://linchaobao.github.io/). And I also had interned in Interaction Intelligence Lab, Ant Research, for one year, working with [Xuan Wang](https://xuanwangvc.github.io/) and exploring how to reconstruct high-quality 3D human/head with low cost.
+I am now a scientific researcher in Tencent Hunyuan, exploring video generation in digital human domain. Before that, I had interned in Tencent AI Lab for two years, exploring 3D digital human/head reconstruction/editing related researches with [Di Kang](https://scholar.google.com/citations?user=2ztThPwAAAAJ&hl=en)(康頔) and [Linchao Bao](https://linchaobao.github.io/)（暴林超）. And I also had interned in Interaction Intelligence Lab, Ant Research, for one year, working with [Xuan Wang](https://xuanwangvc.github.io/)(王璇) and exploring how to reconstruct high-quality 3D human/head with low cost.
 
 As for education experience, I received my Ph.D. degree from [the Department of Computer Science and Technology, Tsinghua University](https://www.cs.tsinghua.edu.cn/) (清华大学计算机科学与技术系), advised by [Prof. Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm) (张松海) and [Prof. Yu-Ping Wang](https://scholar.google.com/citations?hl=en&user=QqdDO64AAAAJ)(王瑀屏). The lab's name is CSCG, created by [Prof. Shimin Hu](https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en)(胡事民).
 Before that, I achieved my bachelor's degree at [the School of Computer and Communication Engineering, University of Science and Technology Beijing](https://scce.ustb.edu.cn/) (北京科技大学计算机与通信工程学院). 
@@ -36,7 +36,7 @@ My research interest focuses on <span style="color:red; font-weight: bold;">vide
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SVG-Head: Hybrid Surface-Volumetric Gaussians for High-Fidelity Head Reconstruction and Real-Time Editing](https://arxiv.org/pdf/2508.09597)
