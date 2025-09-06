@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Ph.D. student at [the Department of Computer Science and Technology, Tsinghua University](https://www.cs.tsinghua.edu.cn/) (清华大学计算机科学与技术系), advised by [Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm) (张松海).
-Before that, I achieved my bachelor's degree at [the School of Computer and Communication Engineering, University of Science and Technology Beijing](https://scce.ustb.edu.cn/) (北京科技大学计算机与通信工程学院). During my PhD study, I had interned in Tencent AI Lab for two years, focusing on 3D digital human/head reconstruction/editing related researches, supervised by [Di Kang](https://scholar.google.com/citations?user=2ztThPwAAAAJ&hl=en). Now, I'm interned in the Ant Research Institute of Ant Group and still focuses on 3D digital human/head reconstruction/editing/generation, supervised by [Xuan Wang](https://scholar.google.com/citations?user=h-3xd3EAAAAJ&hl=en&oi=sra).
+I am now a scientific researcher in Tencent Hunyuan, exploring video generation in digital human domain. Before that, I had interned in Tencent AI Lab for two years, exploring 3D digital human/head reconstruction/editing related researches with [Di Kang](https://scholar.google.com/citations?user=2ztThPwAAAAJ&hl=en) and [Linchao Bao](https://linchaobao.github.io/). And I also had interned in Interaction Intelligence Lab, Ant Research, working with [Xuan Wang](https://xuanwangvc.github.io/) and exploring how to reconstruct high-quality 3D human/head with low cost.
 
-My research interest focuses on <span style="color:red; font-weight: bold;">digital humans</span> and <span style="color:red; font-weight: bold;">computer vision</span>, including digital body/head avatar creation/editing, image/video generative models, and novel 3D representations. 
+As for education experience, I received my Ph.D. degree from [the Department of Computer Science and Technology, Tsinghua University](https://www.cs.tsinghua.edu.cn/) (清华大学计算机科学与技术系), advised by [Prof. Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm) (张松海) and [Prof. Yu-Ping Wang](https://scholar.google.com/citations?hl=en&user=QqdDO64AAAAJ)(王瑀屏). The lab's name is CSCG, created by [Prof. Shimin Hu](https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en).
+Before that, I achieved my bachelor's degree at [the School of Computer and Communication Engineering, University of Science and Technology Beijing](https://scce.ustb.edu.cn/) (北京科技大学计算机与通信工程学院). 
 
-Now, I am in the last year of my five-year Ph.D. career and <span style="color:red; font-weight: bold;">will be graduating in June of 2025</span>. If you're looking for a digital human researcher, feel free to contact me (wangcong20@mails.tsinghua.edu.cn).
-
+My research interest focuses on <span style="color:red; font-weight: bold;">video generation, digital humans and computer vision</span>, including 2D/3D digital human applications, image/video generative models, and SFT/RLHF techniques.
 
 # 🔥 News
+- *2025.07*: &nbsp; I joined **Tencent Hunyuan** as a scientific researcher.
+- *2025.07*: &nbsp;🎉 2 papers is accepted by **ICCV 2025**!
 - *2025.03*: &nbsp;🎉 **MeGA** was accepted by **CVPR 2025**!
 - *2024.07*: &nbsp; I joined **AntGroup** as an intern.
 - *2023.08*: &nbsp;🎉 **Neural Point-based Volumetric Avatars** was accepted by **SIGRRAPH Asia 2023**!
@@ -34,6 +35,18 @@ Now, I am in the last year of my five-year Ph.D. career and <span style="color:r
 - *2022.02*: &nbsp;🎉 **MotionHint** was accepted by **ICRA 2022**!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SVG-Head: Hybrid Surface-Volumetric Gaussians for High-Fidelity Head Reconstruction and Real-Time Editing](https://arxiv.org/pdf/2508.09597)
+
+He-Yi Sun, **Cong Wang**, Tian-Xing Xu, Jingwei Huang, Di Kang, Chunchao Guo, Song-Hai Zhang
+
+[**Project**](https://heyy-sun.github.io/SVG-Head/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
+- By proposing **surf-GS for modeling global appearance as a texture image** and **vol-GS for high-fidelity rendering of non-Lambertian regions**, SVG-Head supports not only high-quality renderings, but also real-time, fine-grained texture editing.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -103,7 +116,7 @@ Now, I am in the last year of my five-year Ph.D. career and <span style="color:r
 - *2017.11* "Guan Zhi" Scholarship (¥10,000, 1/446)
 
 # 📖 Educations
-- *2020.09 - now*, Ph.D. student, the Department of Computer Science and Technology, Tsinghua University, Beijing.
+- *2020.09 - 2025.06*, Ph.D. student, the Department of Computer Science and Technology, Tsinghua University, Beijing.
 - *2016.09 - 2020.06*, Undergraduate, the School of Computer and Communication Engineering, University of Science and Technology Beijing, Beijing.
 
 # 💬 Invited Talks
@@ -112,6 +125,9 @@ Now, I am in the last year of my five-year Ph.D. career and <span style="color:r
 - *2022.07*, Show my paper, invited by [BKUNYUN](https://www.bkunyun.com/), [bilibili video](https://www.bilibili.com/video/BV1cB4y1C7Zw/?spm_id_from=333.337.search-card.all.click)
 - *2022.05*, Oral Presentation for "MotionHint: Self-Supervised Monocular Visual Odometry with Motion Constraints", ICRA 2022, Philadelphia, PA, USA.
 
-# 💻 Internships
+# 💻 Work
+- *2025.07 - now*,     Tencent Hunyuan, Beijing.
+- *2025.05 - 2025.07*, Taotian Group, Hangzhou.
+- *2024.07 - 2025.05*, AntGroup, Hangzhou.
 - *2022.07 - 2024.07*, Tencent AI Lab, Beijing.
-- *2024.07 - now*, AntGroup, Hangzhou.
+
