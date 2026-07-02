@@ -22,9 +22,11 @@ I am now a scientific researcher in Tencent Hunyuan, exploring video generation 
 As for education experience, I received my Ph.D. degree from [the Department of Computer Science and Technology, Tsinghua University](https://www.cs.tsinghua.edu.cn/) (清华大学计算机科学与技术系), advised by [Prof. Song-Hai Zhang](https://www.cs.tsinghua.edu.cn/info/1117/3538.htm) (张松海) and [Prof. Yu-Ping Wang](https://scholar.google.com/citations?hl=en&user=QqdDO64AAAAJ)(王瑀屏). The lab's name is CSCG, created by [Prof. Shimin Hu](https://scholar.google.com/citations?user=LDb4tb0AAAAJ&hl=en)(胡事民).
 Before that, I achieved my bachelor's degree at [the School of Computer and Communication Engineering, University of Science and Technology Beijing](https://scce.ustb.edu.cn/) (北京科技大学计算机与通信工程学院). 
 
-My research interest focuses on <span style="color:red; font-weight: bold;">video generation, digital humans and computer vision</span>, including 2D/3D digital human applications, image/video generative models, and SFT/RLHF techniques.
+My research interest focuses on <span style="color:red; font-weight: bold;">Video World Models, Multimodal Generation, and Digital Humans</span>.
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉 **HarmoView** was released on arXiv!
+- *2026.05*: &nbsp;🎉 **SpongeBob** was released on arXiv!
 - *2025.07*: &nbsp; I joined **Tencent Hunyuan** as a scientific researcher.
 - *2025.07*: &nbsp;🎉 2 papers is accepted by **ICCV 2025**!
 - *2025.03*: &nbsp;🎉 **MeGA** was accepted by **CVPR 2025**!
@@ -35,6 +37,9 @@ My research interest focuses on <span style="color:red; font-weight: bold;">vide
 - *2022.02*: &nbsp;🎉 **MotionHint** was accepted by **ICRA 2022**!
 
 # 📝 Publications 
+
+- [HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation](https://arxiv.org/abs/2606.10839), **Cong Wang**, Z Yu, H Wang, W Liang, Z Zhou, Z Yang, J Ou, R Chen, Y Zhou, et al. **arXiv 2026**
+- [SpongeBob: Sync-Aware Harmonious Audio-Visual Generative Editing](https://arxiv.org/abs/2605.25193), S Liang, **Cong Wang**, F Guan, Z Yu, Y Lu, Y Wang, Y Zhou, X Li, Z Chen. **arXiv 2026**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
