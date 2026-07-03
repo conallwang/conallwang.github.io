@@ -41,7 +41,7 @@ My current research interest focuses on <span style="color:red; font-weight: bol
 
 [Goku: A Million-Scale Universal Dataset and Benchmark for Instruction-Based Video Editing](https://arxiv.org/abs/2606.30599)
 
-Sen Liang*, **Cong Wang***, Zhentao Yu, Fengbin Guan, Zhengguang Zhou, Teng Hu, Youliang Zhang, Yuan Zhou, Xin Li, Qinglin Lu, Zhibo Chen
+Sen Liang*, **Cong Wang***, Zhentao Yu, Fengbin Guan, Zhengguang Zhou, Teng Hu, Youliang Zhang, Yuan Zhou, Xin Li, Qinglin Lu, Zhibo Chen (* equal contribution)
 
 [**Project**](http://flying-sky999.github.io/Goku.github.io/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
 - We introduce **Goku**, a large-scale dataset featuring 2 million high-quality video editing pairs that extends task boundaries to multi-task and structural manipulations, along with **Goku-Edit** (an MLLM-based dual-branch model) and **Goku-Bench** for comprehensive evaluation.
@@ -65,7 +65,7 @@ Sen Liang*, **Cong Wang***, Zhentao Yu, Fengbin Guan, Zhengguang Zhou, Teng Hu, 
 
 [SpongeBob: Sync-Aware Harmonious Audio-Visual Generative Editing](https://arxiv.org/abs/2605.25193)
 
-Sen Liang, **Cong Wang**, Fengbin Guan, Zhentao Yu, Yiting Lu, Yuanzhi Wang, Yuan Zhou, Xin Li, Zhibo Chen
+Sen Liang*, **Cong Wang***, Fengbin Guan, Zhentao Yu, Yiting Lu, Yuanzhi Wang, Yuan Zhou, Xin Li, Zhibo Chen (* equal contribution)
 
 [**Project**](https://hy-spongebob.github.io/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
 - SpongeBob is **the first end-to-end audio-visual joint editing framework** built on a dual-stream DiT, featuring a **Sync-Aware Editing Mechanism** for temporal/spatial alignment and a **Context-Aware Module** for consistency with preserved content, delivering harmonious video-audio co-editing.
