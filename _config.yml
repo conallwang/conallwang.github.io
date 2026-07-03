@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Conall Wang (王聪)"
+  name             : "Cong Wang (王聪)"
   avatar           : "images/live-photo.png"
-  bio              : "Scientific Researcher, World Model Team, Tencent Hunyuan"
+  bio              : "Scientific Researcher<br>World Model Team<br>Tencent Hunyuan"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
