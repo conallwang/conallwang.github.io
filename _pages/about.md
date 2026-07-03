@@ -38,8 +38,29 @@ My research interest focuses on <span style="color:red; font-weight: bold;">Vide
 
 # 📝 Publications 
 
-- [HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation](https://arxiv.org/abs/2606.10839), **Cong Wang**, Z Yu, H Wang, W Liang, Z Zhou, Z Yang, J Ou, R Chen, Y Zhou, et al. **arXiv 2026**
-- [SpongeBob: Sync-Aware Harmonious Audio-Visual Generative Editing](https://arxiv.org/abs/2605.25193), S Liang, **Cong Wang**, F Guan, Z Yu, Y Lu, Y Wang, Y Zhou, X Li, Z Chen. **arXiv 2026**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/harmoview_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation](https://arxiv.org/abs/2606.10839)
+
+**Cong Wang**, Zhentao Yu, Hongmei Wang, Weicong Liang, Zixiang Zhou, Zilin Yang, Jiarong Ou, Rui Chen, Yezhou Liu, Shiyu An, Yue Lu, Yuan Zhou, Qinglin Lu
+
+[**Project**](https://conallwang.github.io/HarmoView_Pages/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
+- We propose **HarmoView**, a robust framework for **identity-consistent video generation** that effectively integrates **multi-view cues** via three architectural refinements—**Multi-level Feature Injection**, **learnable proxy tokens**, and **Jump-RoPE**—together with a **Progressive View Curriculum** to enable stable multi-view training on top of a pre-trained T2V model.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/spongebob_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpongeBob: Sync-Aware Harmonious Audio-Visual Generative Editing](https://arxiv.org/abs/2605.25193)
+
+Sen Liang, **Cong Wang**, Fengbin Guan, Zhentao Yu, Yiting Lu, Yuanzhi Wang, Yuan Zhou, Xin Li, Zhibo Chen
+
+[**Project**](https://hy-spongebob.github.io/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
+- SpongeBob is **the first end-to-end audio-visual joint editing framework** built on a dual-stream DiT, featuring a **Sync-Aware Editing Mechanism** for temporal/spatial alignment and a **Context-Aware Module** for consistency with preserved content, delivering harmonious video-audio co-editing.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,6 +71,18 @@ He-Yi Sun, **Cong Wang**, Tian-Xing Xu, Jingwei Huang, Di Kang, Chunchao Guo, So
 
 [**Project**](https://heyy-sun.github.io/SVG-Head/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
 - By proposing **surf-GS for modeling global appearance as a texture image** and **vol-GS for high-fidelity rendering of non-Lambertian regions**, SVG-Head supports not only high-quality renderings, but also real-time, fine-grained texture editing.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/finegrained_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fine-Grained 3D Gaussian Head Avatars Modeling from Static Captures via Joint Reconstruction and Registration](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_Fine-Grained_3D_Gaussian_Head_Avatars_Modeling_from_Static_Captures_via_ICCV_2025_paper.pdf)
+
+Yuan Sun, Xuan Wang, **Cong Wang**, WeiLi Zhang, Yanbo Fan, Yu Guo, Fei Wang
+
+[**Paper**](https://openaccess.thecvf.com/content/ICCV2025/html/Sun_Fine-Grained_3D_Gaussian_Head_Avatars_Modeling_from_Static_Captures_via_ICCV_2025_paper.html) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
+- We formulate 3D Gaussian head avatar modeling from static captures as a **joint reconstruction and registration** problem, optimizing a **prior-based** and a **prior-free** set of Gaussians and binding them via **non-rigid ICP**, producing fine-grained, animatable avatars at high resolutions.
 </div>
 </div>
 
