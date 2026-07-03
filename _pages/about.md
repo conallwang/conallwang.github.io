@@ -24,6 +24,7 @@ I received my Ph.D. degree from [the Department of Computer Science and Technolo
 My current research interest focuses on <span style="color:red; font-weight: bold;">Video World Models, Multimodal Generation, and Digital Human AI</span>.
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉 **Goku** was accepted by **ECCV 2026**!
 - *2026.06*: &nbsp;🎉 **HarmoView** was released on arXiv!
 - *2026.05*: &nbsp;🎉 **SpongeBob** was released on arXiv!
 - *2025.07*: &nbsp; I joined **Tencent Hunyuan** as a scientific researcher.
@@ -32,10 +33,20 @@ My current research interest focuses on <span style="color:red; font-weight: bol
 - *2024.07*: &nbsp; I joined **AntGroup** as an intern.
 - *2023.08*: &nbsp;🎉 **Neural Point-based Volumetric Avatars** was accepted by **SIGRRAPH Asia 2023**!
 - *2023.07*: &nbsp;🎉 **LoLep** was accepted by **ICCV 2023**!
-- *2022.07*: &nbsp; I joined **Tencent AI Lab** as an intern.
-- *2022.02*: &nbsp;🎉 **MotionHint** was accepted by **ICRA 2022**!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/goku_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Goku: A Million-Scale Universal Dataset and Benchmark for Instruction-Based Video Editing](https://arxiv.org/abs/2606.30599)
+
+Sen Liang*, **Cong Wang***, Zhentao Yu, Fengbin Guan, Zhengguang Zhou, Teng Hu, Youliang Zhang, Yuan Zhou, Xin Li, Qinglin Lu, Zhibo Chen
+
+[**Project**](http://flying-sky999.github.io/Goku.github.io/) <strong><span class='show_paper_citations' data='0gSn6sgAAAAJ:9yKSN-GCB0IC'></span></strong>
+- We introduce **Goku**, a large-scale dataset featuring 2 million high-quality video editing pairs that extends task boundaries to multi-task and structural manipulations, along with **Goku-Edit** (an MLLM-based dual-branch model) and **Goku-Bench** for comprehensive evaluation.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/harmoview_teaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

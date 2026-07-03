@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Conall's HomePage"
-description              : "I'm a scientific researcher in Tencent Hunyuan, focusing on researches about digital human (2D and 3D)."
+description              : "I'm a scientific researcher in Tencent Hunyuan, focusing on Video World Models."
 repository               : "conallwang/conallwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Conall Wang (王聪)"
   avatar           : "images/live-photo.png"
-  bio              : "Tencent, Hunyuan"
+  bio              : "Scientific Researcher, World Model Team, Tencent Hunyuan"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
