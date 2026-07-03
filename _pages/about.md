@@ -36,7 +36,7 @@ My current research interest focuses on <span style="color:red; font-weight: bol
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/goku_teaser.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/goku_teaser.jpg' alt="sym" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Goku: A Million-Scale Universal Dataset and Benchmark for Instruction-Based Video Editing](https://arxiv.org/abs/2606.30599)
@@ -48,7 +48,7 @@ Sen Liang*, **Cong Wang***, Zhentao Yu, Fengbin Guan, Zhengguang Zhou, Teng Hu, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/harmoview_teaser.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/harmoview_teaser.jpg' alt="sym" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HarmoView: Harmonizing Multi-View Constraints for Identity-Consistent Video Generation](https://arxiv.org/abs/2606.10839)
@@ -60,7 +60,7 @@ Sen Liang*, **Cong Wang***, Zhentao Yu, Fengbin Guan, Zhengguang Zhou, Teng Hu, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/spongebob_teaser.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/spongebob_teaser.jpg' alt="sym" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpongeBob: Sync-Aware Harmonious Audio-Visual Generative Editing](https://arxiv.org/abs/2605.25193)
@@ -72,7 +72,7 @@ Sen Liang, **Cong Wang**, Fengbin Guan, Zhentao Yu, Yiting Lu, Yuanzhi Wang, Yua
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pipeline.png' alt="sym" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SVG-Head: Hybrid Surface-Volumetric Gaussians for High-Fidelity Head Reconstruction and Real-Time Editing](https://arxiv.org/pdf/2508.09597)
@@ -84,7 +84,7 @@ He-Yi Sun, **Cong Wang**, Tian-Xing Xu, Jingwei Huang, Di Kang, Chunchao Guo, So
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/finegrained_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/finegrained_teaser.jpg' alt="sym" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Fine-Grained 3D Gaussian Head Avatars Modeling from Static Captures via Joint Reconstruction and Registration](https://openaccess.thecvf.com/content/ICCV2025/papers/Sun_Fine-Grained_3D_Gaussian_Head_Avatars_Modeling_from_Static_Captures_via_ICCV_2025_paper.pdf)
@@ -96,7 +96,7 @@ Yuan Sun, Xuan Wang, **Cong Wang**, WeiLi Zhang, Yanbo Fan, Yu Guo, Fei Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mega_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/mega_teaser.jpg' alt="sym" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MeGA: Hybrid Mesh-Gaussian Head Avatar for High-Fidelity Rendering and Head Editing](https://arxiv.org/abs/2404.19026)
@@ -108,7 +108,7 @@ Yuan Sun, Xuan Wang, **Cong Wang**, WeiLi Zhang, Yanbo Fan, Yu Guo, Fei Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2023</div><img src='images/npva_teaser.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH Asia 2023</div><img src='images/npva_teaser.jpg' alt="sym" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neural Point-based Volumetric Avatar: Surface-guided Neural Points for Efficient and Photorealistic Volumetric Head Avatar](https://dl.acm.org/doi/10.1145/3610548.3618204)
@@ -120,7 +120,7 @@ Yuan Sun, Xuan Wang, **Cong Wang**, WeiLi Zhang, Yanbo Fan, Yu Guo, Fei Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/lolep_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/lolep_teaser.jpg' alt="sym" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LoLep: Single-View View Synthesis with Locally-Learned Planes and Self-Attention Occlusion Inference](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_LoLep_Single-View_View_Synthesis_with_Locally-Learned_Planes_and_Self-Attention_Occlusion_ICCV_2023_paper.pdf)
@@ -132,7 +132,7 @@ Yuan Sun, Xuan Wang, **Cong Wang**, WeiLi Zhang, Yanbo Fan, Yu Guo, Fei Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/motionhint_pipe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2022</div><img src='images/motionhint_pipe.png' alt="sym" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MotionHint: Self-Supervised Monocular Visual Odometry with Motion Constraints](https://dl.acm.org/doi/abs/10.1109/ICRA46639.2022.9812288)
